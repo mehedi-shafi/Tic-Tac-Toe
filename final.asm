@@ -1,5 +1,5 @@
 ;Tic Tac Toe Game
-;By Team ERROR NOT FOUND
+;By Team Away From Keyboard
 
 ;Eyakub 151-15-4674
 ;Fateha 151-15-5036
